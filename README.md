@@ -12,6 +12,7 @@ This repository holds the tables, figures, prompts, data, and analysis code that
 | `tables/` | `supplementary_tables.md` (Tables S1–S7, Figures S1–S2 described) and LaTeX sources. |
 | `figures/` | Ratings by mode, length ratio (Figure S1), mode-flow Sankey (Figure S2), as PDF and PNG. |
 | `prompts/modes/` | The generation prompt: `base_strategy3.md` (shared validation checklist) plus the `faithful`, `simplified`, and `condensed` mode modules. |
+| `prompts/judge/` | The LLM judge system prompt (v1 with mode descriptions, v2 without) and a note on what the judge received. |
 | `prompts/strategies/` | The three prompting strategies compared in the tournament (chain-of-thought, few-shot, validation) and the reference volume used as the worked example. |
 | `data/` | See below. |
 | `rated_volumes/` | The 36 volumes (12 source PDFs × 3 modes) rated by humans and the LLM judge, as the JSON fetched from the iTELL CMS and as plain text. `README.txt` maps each file to its source PDF and mode. |
@@ -38,4 +39,4 @@ Install with `pip install -r code/requirements.txt`.
 
 ## Not included
 
-The LLM judge prompt and runner (maintained separately) and the human-rating analysis notebook for the mixed models reported in Section RQ1; both will be added.
+The judge runner itself lives in `learlab/itell-evals` (branch `eval/reader-study-reliability`). The human-rating mixed-model script will be added.
