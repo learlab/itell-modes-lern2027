@@ -1,0 +1,54 @@
+{
+  "Title": "Changing Issues in Leisure-Family Research",
+  "Description": "This paper analyzes the evolution of leisure-family research from the 1960s to the 1990s, identifying shifts in focus, methodologies, and theoretical perspectives. It examines three distinct periods—Neglect, Affirming Consensus, and Critical—and proposes future research directions.",
+  "VolumeSummary": "Beginning with the 1982 International Sociological Association congress, John R. Kelly initiated a critical review of leisure-family research, advocating for a refocus on the dialectic between agency and structure, diversity in family forms, and challenging traditional models. The paper delineates three historical periods: the Period of Neglect (60s-70s), where family was largely overlooked; the Affirming Period of Consensus (early 80s), which shifted to individual analysis and a positive view of leisure's role in family bonding; and the Critical Period (late 80s-90s), which introduced serious attention to gender, diverse family structures, and socio-contextual influences, acknowledging leisure's potential for \"surplus repression.\" Finally, Kelly suggests future research should adopt dialectical models, critically examine researchers' domain assumptions, and emphasize commonplace daily interactions over grand activities.",
+  "Pages": [
+    {
+      "Title": "Changing Issues in Leisure-Family Research",
+      "Order": 1,
+      "ReferenceSummary": "This article traces the evolution of leisure-family research across three key periods: Neglect (60s-70s), Affirming Consensus (early 80s), and Critical (late 80s-90s). It highlights shifts from aggregate analysis to individual, from traditional family focus to diverse structures, and from purely positive views to acknowledging complexities like 'surplus repression.' The paper concludes with recommendations for future research, emphasizing dialectical models and focusing on everyday life.",
+      "Content": [
+        {
+          "__component": "page.chunk",
+          "Header": "Introduction to Leisure-Family Research and the Period of Neglect",
+          "Text": "<p>John R. Kelly first analyzed leisure-family research issues at the 1982 International Sociological Association congress, and more recently collaborated on a \"critical review\" of research on \"Women, Leisure, and the Family.\" In 1982, Kelly advocated refocusing research on the <em>dialectic between agency and structure</em>, freedom and obligation, and addressing the diversity of family forms, life course disruptions, intimacy, sexuality, and \"identity ambivalence\" rather than traditional family models. Thirteen years later, many of these issues remain unresolved, with new ones emerging. This paper will examine three distinct periods of leisure-family research, each with different agendas and units of analysis, and suggest future directions. During the <em>Period of Neglect</em> (1960s-70s), leisure research largely overlooked the family, focusing on population aggregates and explaining leisure primarily through its relation to work. However, late in this period, there was a move towards household-based research and a fuller social context.</p>",
+          "KeyPhrase": "leisure-family research, dialectic between agency and structure, family diversity, Period of Neglect, household-based research",
+          "Question": "What were the key recommendations for refocusing leisure-family research in 1982, and how did the 'Period of Neglect' characterize early leisure studies?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "The Affirming Period of Consensus—The Early 80s",
+          "Text": "<p>The <em>Affirming Period of Consensus</em> in the early 1980s shifted the unit of analysis to the individual, influenced by attributional social psychological models. It became accepted that most leisure occurs at home with household members, emphasizing leisure's role in expressing and developing relationships, leading to a consensus on the <em>leisure-family connection</em>. This period held a positive premise: leisure and family were mutually beneficial, fostering \"bonding,\" \"affection and intimacy,\" developmental play, and family \"solidarity\" through functional approaches. Despite this, research still centered on the <em>nuclear family</em>, assuming shared leisure was positive, and largely ignored differentiation by gender or social class, though some acknowledged the mixed nature of women's family roles.</p>",
+          "KeyPhrase": "Affirming Period of Consensus, individual unit of analysis, leisure-family connection, family solidarity, nuclear family focus",
+          "Question": "Describe the main characteristics and limitations of the 'Affirming Period of Consensus' in leisure-family research.",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "The Critical Period—Gender and Context (Late 80s-90s)",
+          "Text": "<p>The <em>Critical Period</em> (late 1980s-90s) brought significant changes, including serious attention to gender and a shift towards viewing the individual within a defined social context. A new consensus emerged, recognizing family leisure could also be a domain of \"<em>surplus repression</em>,\" not just freedom and bonding. This period addressed <em>family variations and disruptions</em> like divorce, poverty, ethnicity, and diverse sexual orientations, making the traditional nuclear family focus untenable. Researchers began to consider the \"<em>lived conditions</em>\" of life, acknowledging that leisure and family are deeply contextual and shaped by cumulative disruptions, moving beyond assumptions of a uniform \"middle mass\" of straight, white, middle-income families.</p>",
+          "KeyPhrase": "Critical Period, gender, social context, surplus repression, family variations, lived conditions",
+          "Question": "How did the 'Critical Period' redefine the understanding of family leisure and what factors necessitated a shift from the traditional nuclear family focus?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "The Critical Period—Differentiating Factors and Modern Family Forms",
+          "Text": "<p>The Critical Period intensified focus on <em>differentiating factors</em>, particularly by examining women's leisure. This revealed a <em>dialectic of meaning and constraint</em> shaped by patriarchal ideologies, especially as women entered the paid labor force, leading to <em>role conflicts</em> and the \"stalled revolution.\" The traditional functional model became inadequate. This period also led to recognition of <em>diverse family forms</em>, including gay and lesbian families and committed heterosexual relationships without marriage or children, broadening the understanding of sexual expression and single-adult households. New theories (feminist, queer, ethnic) emerged, challenging disciplinary assumptions and highlighting the significance of social class, multiple cultures, and age. Critical approaches analyze these differentiations within the context of changing workforce, family composition, and leisure consumption, with economists viewing the family as a unit of consumption.</p>",
+          "KeyPhrase": "differentiating factors, women's leisure, dialectic of meaning and constraint, role conflicts, diverse family forms, social class, multiple cultures",
+          "Question": "How did the 'Critical Period' further differentiate family leisure studies, particularly regarding women's roles and emerging family structures?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "Hints for the Future in Leisure-Family Research",
+          "Text": "<p>Although family is a \"hot topic,\" leisure receives little attention, requiring careful navigation of political agendas. Future research should prioritize <em>dialectical models</em> over single-issue approaches, recognizing inherent complexities like community and alienation, bonding and violence, and conflict and consensus within family life. Researchers must also critically examine their own \"<em>domain assumptions</em>\" and implicit ideologies, acknowledging how these \"standpoints\" influence research design and theoretical development. Finally, it is crucial not to neglect the <em>commonplace</em> aspects of leisure and family. The focus should be on \"what people do together\"—the daily minutiae like dinnertable talk, shared chores, and simple interactions—as these represent the true essence of life in real conditions, rather than grand, exceptional activities.</p>",
+          "KeyPhrase": "dialectical models, single-issue approaches, domain assumptions, commonplace leisure, family interactions",
+          "Question": "What three key recommendations are offered for future research in leisure and family studies?",
+          "ConstructedResponse": ""
+        }
+      ]
+    }
+  ]
+}

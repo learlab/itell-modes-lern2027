@@ -1,0 +1,43 @@
+\begin{table*}[t]
+   
+  \begin{tabular}{lcccc}
+    
+    & \textbf{Cohesion} & \textbf{Complexity} & \textbf{Readability} & \textbf{Overall} \\
+    
+    \multicolumn{5}{l}{\emph{Judge means by mode (6 passes)}} \\
+    \quad Faithful   & 5.04 & 5.01 & 4.07 & 4.44 \\
+    \quad Simplified & 5.33 & 3.62 & 5.06 & 4.72 \\
+    \quad Condensed  & 5.40 & 4.79 & 4.78 & 4.65 \\
+    \multicolumn{5}{l}{\emph{Reliability: single unit}} \\
+    \quad Judge, one pass: ICC(1)            & .67 & .89 & .84 & .87 \\
+    \quad Judge, pass vs.\ pass: mean QWK    & .66 & .88 & .84 & .87 \\
+    \quad Human, one rater: ICC(1)           & .29 & .41 & .31 & .20 \\
+    \quad Human, rater vs.\ rater: mean QWK  & .28 & .19 & .20 & .15 \\
+    \multicolumn{5}{l}{\emph{Reliability: aggregate used in analyses}} \\
+    \quad Judge, mean of 6 passes: ICC(1,6)  & .92 & .98 & .97 & .98 \\
+    \quad Humans, mean of $\approx$4 raters: ICC(1,$k$) & .61 & .73 & .64 & .50 \\
+    \multicolumn{5}{l}{\emph{Judge--human agreement: aggregates ($N=36$ volumes)}} \\
+    \quad $r$, judge mean vs.\ human mean    & .32 & .43$^{**}$ & .49$^{**}$ & .33$^{*}$ \\
+    \quad $\rho$, judge mean vs.\ human mean & .27 & .45$^{**}$ & .59$^{**}$ & .36$^{*}$ \\
+    \quad $r$, disattenuated                 & .43 & .51 & .62 & .48 \\
+    \quad QWK, judge mean vs.\ human mean    & .12 & .20 & .42 & .28 \\
+    \multicolumn{5}{l}{\emph{Judge--human agreement: judge as one more rater}} \\
+    \quad mean $r$, one judge pass vs.\ each human rater   & .21 & .38 & .32 & .21 \\
+    \quad mean $r$, human vs.\ human (ref.)                & .33 & .25 & .23 & .18 \\
+    \quad mean QWK, one judge pass vs.\ each human rater & .14 & .29 & .26 & .18 \\
+    \quad mean QWK, human vs.\ human (ref.)              & .28 & .19 & .20 & .15 \\
+    
+  \end{tabular}
+  \caption{LLM judge replication.  ICC(1): reliability of a single
+           pass or rater; ICC(1,$k$): reliability of the mean of $k$
+           passes or raters, which is the score the analyses use.  QWK:
+           quadratic weighted kappa, mean over pairs of passes or raters
+           sharing $\geq 6$ volumes.  $r$: Pearson correlation; $\rho$:
+           Spearman correlation ($^{*}p<.05$, $^{**}p<.01$); the
+           disattenuated $r$ divides by
+           $\sqrt{\mathrm{ICC}_{\text{judge}}\,\mathrm{ICC}_{\text{human}}}$
+           of the two aggregates.  The last block compares one judge
+           pass against each human rater to the humans' agreement with
+           each other, so that both sides are single units.}
+  \label{tab:judge}
+\end{table*}

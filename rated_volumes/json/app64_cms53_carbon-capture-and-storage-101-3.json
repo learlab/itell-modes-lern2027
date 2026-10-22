@@ -1,0 +1,62 @@
+{
+  "Title": "Carbon Capture and Storage 101",
+  "Description": "This document explains carbon capture and storage (CCS), a process that reduces carbon dioxide emissions. It covers how CCS works, its current status globally and in the United States, and the main challenges to its widespread adoption.",
+  "VolumeSummary": "Carbon capture and storage (CCS) is a vital technology designed to prevent carbon dioxide (CO₂) from entering the atmosphere, capturing it from power generation and industrial processes. This explainer outlines the fundamentals of CCS, including its three main steps: capture, transport, and storage in underground geological formations. It also details the global and national landscape of CCS, noting the number of operational facilities and captured emissions. Furthermore, the document addresses key barriers to deployment, such as high implementation costs, logistical challenges in transportation, and concerns regarding public support and potential seismic activity. Finally, it highlights the various policies and incentives, like tax credits, that encourage the development and deployment of CCS technologies.",
+  "Pages": [
+    {
+      "Title": "Carbon Capture and Storage Fundamentals",
+      "Order": 1,
+      "ReferenceSummary": "This page provides an introduction to carbon capture and storage (CCS), explaining its definition, the current global and US status, and the three-step process of capturing, transporting, and storing CO₂. It also examines the primary barriers to CCS deployment, including costs, transportation, storage concerns, and public acceptance, and outlines relevant policies and resources.",
+      "Content": [
+        {
+          "__component": "page.chunk",
+          "Header": "Introduction to Carbon Capture and Storage",
+          "Text": "<p><em>Carbon capture and storage (CCS)</em> is a process that captures carbon dioxide (CO₂) released from power plants and industrial activities. Instead of letting CO₂ go into the atmosphere, CCS stores it permanently. This technology can greatly reduce CO₂ emissions from energy systems. Some CCS facilities can capture 90% to 100% of the CO₂ they produce. This overview will explain how CCS works, where it is used in the United States, challenges to its wider use, and policies that support its development.</p>\n<p>Sometimes, captured CO₂ is used to create products or in industrial processes instead of being stored underground. This practice is known as <em>carbon capture, utilization, and storage (CCUS)</em>. The amount of emissions reduced by CCUS depends on whether the CO₂ is permanently stored or if its use replaces other CO₂ sources. A key use for captured CO₂ is <em>enhanced oil recovery (EOR)</em>. In EOR, CO₂ and water are injected into oil wells to push oil out. This process also stores the CO₂ underground. Selling CO₂ for uses like EOR can help CCS facilities earn money, encouraging more widespread use of the technology.</p>",
+          "KeyPhrase": "carbon capture and storage, CO2 emissions, carbon capture utilization and storage, enhanced oil recovery, CCS facilities",
+          "Question": "How does carbon capture and storage (CCS) differ from carbon capture, utilization, and storage (CCUS)?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "The Current State of Carbon Capture and Storage",
+          "Text": "<p>The <em>Global CCS Institute's 2019 Status Report</em> shares important information about carbon capture and storage. Currently, 40 million metric tons of carbon dioxide (CO₂) are captured and stored each year from plants that are either operating or under construction. To understand this amount, consider that the United States alone released over 5 billion metric tons of CO₂ in 2018. Globally, there are 51 large-scale CCS facilities that are either working or being built. In the United States, 10 of these large facilities are already in operation.</p>\n<p>The Global CCS Institute explains that 'large-scale facilities' are power plants that capture at least 800,000 metric tons of CO₂ every year. For other industrial sites, a facility is considered large-scale if it captures at least 400,000 metric tons of CO₂ annually. This effort is a crucial part of reducing global carbon emissions.</p>\n<p>!<a href=\"image_page_2_1\">Map showing large-scale operational CCS facilities in the United States</a></p>",
+          "KeyPhrase": "Global CCS Institute 2019 Status Report, large-scale CCS facilities, CO2 emissions, United States, operational facilities",
+          "Question": "What defines a 'large-scale facility' according to the Global CCS Institute?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "How Carbon Capture and Storage Works",
+          "Text": "<p>Setting up <em>carbon capture and storage (CCS)</em> at a power plant or industrial site usually involves three main steps: capture, transportation, and storage.</p>\n<p>First, <em>capture</em> involves collecting CO₂ from where it is produced. There are three main ways to do this:</p>\n<ul><li>  <em>Post-combustion carbon capture</em>: This is the most common method in current power plants. CO₂ is separated from the gases released after fuel is burned.</li><li>  <em>Pre-combustion carbon capture</em>: This method is mainly used in industrial settings. It involves turning fuel into a gas before burning it, then separating the CO₂. While it might be cheaper, it's usually only added to new facilities, not old ones.</li><li>  <em>Oxy-fuel combustion systems</em>: In this method, fuel is burned in almost pure oxygen instead of regular air. This creates a very concentrated stream of CO₂, making it easier to capture.</li></ul>\n<p>After capture, the CO₂ is squeezed into a liquid and <em>transported</em>. This typically happens through pipelines, but also by ships, trains, or other vehicles, taking it to a suitable storage location.</p>\n<p>The final step is <em>storage</em>. The liquid CO₂ is injected deep underground into geological formations. This keeps it stored long-term, preventing its release into the air. Common storage sites include old oil and gas fields, deep saltwater rock layers (<em>deep saline formations</em>), and coal beds.</p>",
+          "KeyPhrase": "capture, transportation, storage, post-combustion, pre-combustion, oxy-fuel combustion, deep saline formations",
+          "Question": "Describe the three main steps involved in deploying Carbon Capture and Storage (CCS) technology.",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "Barriers to Widespread Deployment",
+          "Text": "<p>Despite its potential, several issues hinder the widespread use of <em>carbon capture and storage (CCS)</em> technology. One major problem is the <em>high cost of implementation</em>. The equipment and energy needed for capturing and compressing CO₂ are expensive. This can make power plants less efficient and increase their water use, potentially making CCS projects too costly to be practical. Also, because CCS is relatively new, investing in it carries higher risks, requiring more incentives for development.</p>\n<p><em>Transportation also presents challenges</em>. Moving captured CO₂ is costly and requires a lot of energy to keep it compressed in pipelines. These pipelines must be specially designed, as regular oil and gas pipelines cannot be used. Impurities in the CO₂, like water, can damage pipelines and cause dangerous leaks or explosions. Connecting every CO₂ source to a suitable underground storage site via pipeline can be difficult and expensive, especially in areas without proper geological formations.</p>\n<p>For <em>storage</em>, while there seems to be enough geological storage space globally for a long time, concerns exist about long-term leakage. However, studies like a 2018 IPCC report suggest that several processes can ensure very long-term storage. Researchers are also studying ways to reduce the risk of <em>seismic activity</em> (<strong>earthquakes</strong>) that could be caused by injecting CO₂ underground, including looking at other storage methods like <em>carbon dioxide mineralization</em>.</p>\n<p>Finally, <em>public support for CCS is uncertain</em>. Public opinion is key for CCS to succeed, but how people truly view the technology is not fully understood. Factors influencing public opinion include whether people accept fossil fuels, the safety of CO₂ pipelines and storage, and the perceived effectiveness of CCS compared to other climate solutions. More research is needed to understand public reactions to a large-scale CCS rollout.</p>",
+          "KeyPhrase": "cost of implementation, transportation challenges, storage considerations, public support, seismic activity, carbon dioxide mineralization",
+          "Question": "What are the primary barriers preventing the widespread deployment of carbon capture and storage (CCS)?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "Policies Supporting Carbon Capture and Storage",
+          "Text": "<p>To speed up the development of <em>carbon capture and storage (CCS)</em>, policies that boost demand and lower costs are necessary. This idea was emphasized in the <em>Intergovernmental Panel on Climate Change's Special Report on Carbon Dioxide Capture and Storage</em>. Different kinds of policies can help reduce CCS expenses and encourage more research and use. These include <em>carbon pricing</em> (<strong>charging for carbon emissions</strong>), government investments, subsidies, and clean energy rules that reward companies using CCS.</p>\n<p>In the United States, several policies already support CCS technology. For example, <em>Section 45Q of the Internal Revenue Code</em> offers national tax credits for storing carbon. Beyond these national credits, some states like California, Texas, Louisiana, Montana, and North Dakota also have their own tax credits and funding programs.</p>\n<p>Additionally, several proposed laws could influence CCS growth. These include acts like the Launching Energy Advancement and Development through Innovations for Natural Gas Act and the Fossil Energy Research and Development Act of 2019. Each of these policies would offer different ways to encourage and support CCS deployment.</p>",
+          "KeyPhrase": "carbon pricing, public investment, subsidies, clean energy standards, Section 45Q, tax credits",
+          "Question": "What types of policies are being used or proposed to encourage the development and deployment of CCS technology?",
+          "ConstructedResponse": ""
+        },
+        {
+          "__component": "page.chunk",
+          "Header": "Additional Resources and Authors",
+          "Text": "<p>For those interested in learning more, various resources are available. These include background materials from organizations like the Global CCS Institute and the National Energy Technology Laboratory, as well as status reports from the IPCC. Additional content, such as podcasts, can be found through Resources for the Future (RFF).</p>\n<p>This explainer was written by experts from <em>Resources for the Future (RFF)</em>, a nonprofit group in Washington, DC. RFF's goal is to improve decisions about the environment, energy, and natural resources through research. <em>Vincent Gonzales</em> is a research analyst at RFF. <em>Alan Krupnick</em> is a senior fellow at RFF, specializing in oil and gas, greenhouse gas reduction, and cost-benefit analysis. <em>Lauren Dunlap</em> is a communications specialist at RFF, managing publications and projects.</p>",
+          "KeyPhrase": "",
+          "Question": "",
+          "ConstructedResponse": ""
+        }
+      ]
+    }
+  ]
+}

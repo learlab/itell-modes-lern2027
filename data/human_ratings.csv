@@ -1,0 +1,196 @@
+rater,textbook,true_mode,pdf_id,platform_volume_id,overall,cohesion,complexity,readability,mode_guess,general_comments,bug_comments
+R01,Textbook 12,faithful,096,app112,4 - Somewhat effective,4 - Somewhat organized,6 - Very complex,2 - Difficult to understand,Condensed,"""Athens"" appears as ""Ath-ens"" multiple times. Strange.",*bold* markdown syntax (the asterisks) appears in the question instead of rendering as bold
+R01,Textbook 1,condensed,008,app62,5 - Effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Faithful,"Some bolded keyterms work reasonably well, but we may want to think of better solutions for handling keyterms.",
+R01,Textbook 5,simplified,050,app79,5 - Effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,,
+R01,Textbook 7,simplified,062,app86,4 - Somewhat effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,,
+R01,Textbook 6,simplified,056,app83,5 - Effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,Good formatting on some complicated bullet point lists,
+R01,Textbook 10,faithful,097,app99,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,4 - Somewhat easy to understand,Condensed,"Each chunk is a single, long paragraph. Not ideal.",
+R01,Textbook 9,faithful,084,app96,6 - Very effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Condensed,"This one also has long paragraph chunks. I wonder if this behavior is caused by the condensed prompt? Maybe the LLM is combining paragraphs to ""condense"" the text?",
+R01,Textbook 11,faithful,064,app108,5 - Effective,5 - Organized,4 - Somewhat complex,6 - Very easy to understand,Faithful,,
+R01,Textbook 8,simplified,077,app94,4 - Somewhat effective,4 - Somewhat organized,6 - Very complex,4 - Somewhat easy to understand,Faithful,,
+R01,Textbook 3,condensed,024,app72,2 - Ineffective,4 - Somewhat organized,3 - Somewhat simple,3 - Somewhat difficult to understand,Simplified,Major formatting issues in the first chunk. Possibly a block quote or other element inserted inside an unordered list? Parsing failed for some reason.,
+R01,Textbook 4,condensed,032,app77,6 - Very effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Simplified,,
+R01,Textbook 2,condensed,012,app65,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,,
+R02,Textbook 11,faithful,064,app108,5 - Effective,5 - Organized,5 - Complex,4 - Somewhat easy to understand,Faithful,,Can copy and paste. Might be on purpose though.
+R02,Textbook 9,faithful,084,app96,4 - Somewhat effective,5 - Organized,6 - Very complex,3 - Somewhat difficult to understand,Condensed,,Highlighting is not available
+R02,Textbook 1,condensed,008,app62,5 - Effective,5 - Organized,5 - Complex,4 - Somewhat easy to understand,Faithful,This has a bunch of bolded text,
+R02,Textbook 4,condensed,032,app77,4 - Somewhat effective,5 - Organized,6 - Very complex,3 - Somewhat difficult to understand,Condensed,"This also had a bunch of bolded text. Might be a pattern? Also, a lot of lists. Probably condensed",
+R02,Textbook 2,condensed,012,app65,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Faithful,"Also, a bunch of bold",Sentence ending punctuation was off
+R02,Textbook 8,simplified,077,app94,5 - Effective,4 - Somewhat organized,5 - Complex,4 - Somewhat easy to understand,Faithful,,
+R02,Textbook 5,simplified,050,app79,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Simplified,"Also, a bunch of bold",
+R02,Textbook 7,simplified,062,app86,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Simplified,has a lot of elaborations where it explains tough ideas,
+R02,Textbook 6,simplified,056,app83,5 - Effective,6 - Very organized,3 - Somewhat simple,5 - Easy to understand,Simplified,has a lot of elaborations where it explains tough ideas,"The latency at first QQ is annoying. I understand it. But, it is volume specific?"
+R02,Textbook 12,faithful,096,app112,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,4 - Somewhat easy to understand,Faithful,,Chunking on this one was long. Was fine though.
+R02,Textbook 10,faithful,097,app99,3 - Somewhat ineffective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Faithful,,
+R02,Textbook 3,condensed,024,app72,3 - Somewhat ineffective,4 - Somewhat organized,6 - Very complex,4 - Somewhat easy to understand,Condensed,,
+R03,Textbook 3,faithful,024,app69,4 - Somewhat effective,5 - Organized,4 - Somewhat complex,4 - Somewhat easy to understand,Faithful,,images broken
+R03,Textbook 11,simplified,064,app109,5 - Effective,5 - Organized,2 - Simple,5 - Easy to understand,Faithful,,
+R03,Textbook 10,simplified,097,app102,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Faithful,,
+R03,Textbook 12,simplified,096,app113,6 - Very effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R03,Textbook 4,faithful,032,app73,4 - Somewhat effective,5 - Organized,4 - Somewhat complex,4 - Somewhat easy to understand,Condensed,,images broken
+R03,Textbook 5,condensed,050,app81,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R03,Textbook 7,condensed,062,app92,3 - Somewhat ineffective,4 - Somewhat organized,3 - Somewhat simple,5 - Easy to understand,Condensed,,
+R03,Textbook 9,simplified,084,app97,6 - Very effective,5 - Organized,2 - Simple,6 - Very easy to understand,Simplified,,
+R03,Textbook 6,condensed,056,app84,4 - Somewhat effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Simplified,,
+R03,Textbook 2,faithful,012,app63,,,,,,,
+R03,Textbook 1,faithful,008,app50,,,,,,,
+R03,Textbook 8,condensed,077,app95,,,,,,,
+R04,Textbook 3,faithful,024,app69,5 - Effective,4 - Somewhat organized,2 - Simple,6 - Very easy to understand,Simplified,,"Formatting, capitalization off"
+R04,Textbook 5,condensed,050,app81,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,,
+R04,Textbook 6,condensed,056,app84,6 - Very effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Faithful,Sentences seemed unusually short in some places?,
+R04,Textbook 7,condensed,062,app92,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,,
+R04,Textbook 10,simplified,097,app102,5 - Effective,4 - Somewhat organized,4 - Somewhat complex,4 - Somewhat easy to understand,Condensed,,
+R04,Textbook 1,faithful,008,app50,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Condensed,,
+R04,Textbook 8,condensed,077,app95,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Condensed,,
+R04,Textbook 12,simplified,096,app113,5 - Effective,4 - Somewhat organized,5 - Complex,4 - Somewhat easy to understand,Condensed,,
+R04,Textbook 11,simplified,064,app109,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,,
+R04,Textbook 4,faithful,032,app73,5 - Effective,6 - Very organized,2 - Simple,5 - Easy to understand,Simplified,,
+R04,Textbook 9,simplified,084,app97,4 - Somewhat effective,3 - Somewhat disorganized,5 - Complex,4 - Somewhat easy to understand,Simplified,,
+R04,Textbook 2,faithful,012,app63,5 - Effective,5 - Organized,5 - Complex,5 - Easy to understand,Simplified,,Weird formatting of additional resources
+R05,Textbook 1,faithful,008,app50,6 - Very effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R05,Textbook 11,condensed,064,app110,5 - Effective,6 - Very organized,3 - Somewhat simple,6 - Very easy to understand,Condensed,,
+R05,Textbook 7,faithful,062,app85,4 - Somewhat effective,5 - Organized,2 - Simple,5 - Easy to understand,Simplified,"I didn't find the reference for the first part of the second question in the paragraph, the questions seem to be too straightforward ",
+R05,Textbook 9,condensed,084,app98,5 - Effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R05,Textbook 4,simplified,032,app74,5 - Effective,2 - Disorganized,5 - Complex,5 - Easy to understand,Condensed,Figure in the first section is missing,
+R05,Textbook 6,faithful,056,app82,4 - Somewhat effective,3 - Somewhat disorganized,3 - Somewhat simple,6 - Very easy to understand,Faithful,,
+R05,Textbook 3,simplified,024,app71,3 - Somewhat ineffective,5 - Organized,5 - Complex,3 - Somewhat difficult to understand,Condensed,,
+R05,Textbook 10,condensed,097,app107,4 - Somewhat effective,5 - Organized,4 - Somewhat complex,4 - Somewhat easy to understand,Faithful,,
+R05,Textbook 8,faithful,077,app93,5 - Effective,3 - Somewhat disorganized,6 - Very complex,3 - Somewhat difficult to understand,Faithful,,
+R05,Textbook 5,faithful,050,app78,3 - Somewhat ineffective,3 - Somewhat disorganized,5 - Complex,3 - Somewhat difficult to understand,Condensed,Figure in section two is missing,
+R05,Textbook 2,faithful,012,app63,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R05,Textbook 12,condensed,096,app114,4 - Somewhat effective,5 - Organized,2 - Simple,5 - Easy to understand,Simplified,,
+R06,Textbook 7,faithful,062,app85,5 - Effective,6 - Very organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R06,Textbook 8,faithful,077,app93,6 - Very effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R06,Textbook 2,simplified,012,app64,5 - Effective,6 - Very organized,2 - Simple,6 - Very easy to understand,Simplified,,
+R06,Textbook 5,faithful,050,app78,6 - Very effective,5 - Organized,2 - Simple,6 - Very easy to understand,Condensed,,
+R06,Textbook 4,simplified,032,app74,4 - Somewhat effective,5 - Organized,1 - Very simple,6 - Very easy to understand,Condensed,,
+R06,Textbook 12,condensed,096,app114,4 - Somewhat effective,6 - Very organized,2 - Simple,6 - Very easy to understand,Condensed,,
+R06,Textbook 1,faithful,008,app50,5 - Effective,3 - Somewhat disorganized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R06,Textbook 3,simplified,024,app71,5 - Effective,4 - Somewhat organized,4 - Somewhat complex,5 - Easy to understand,Condensed,,"LaTeX is not properly formatted: $$6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{light, enzymes}} \text{C}6\text{H}{12}\text{O}_6 + 6\text{O}_2$$ (carbon dioxide + water produces a sugar + oxygen)"
+R06,Textbook 6,faithful,056,app82,4 - Somewhat effective,2 - Disorganized,3 - Somewhat simple,5 - Easy to understand,Faithful,"Sections like contact info could perhaps be omitted, doesn't feel relevant to a learner: If you have any questions or want to learn more about how we can fulfill your specific needs, Member Services Support is available at (888) 732-8562, or please visit us in person at your local branch Monday through Friday, 8:30 a.m. to 5:30 p.m.Credit BureausEquifaxReport Order: (800) 685-1111 / Fraud Hotline: (888) 766-0008equifax.comExperianReport Order: (888) 397-3742 / Fraud Hotline: (888) 397-3742experian.comTransUnionReport Order: (877) 322-8228 / Fraud Hotline: (800) 680-7289tuc.com¹ Visa. Practical money guide: credit history. (2018). Retrieved from practicalmoneyskills.com² Get smart about credit: Credit basics Q&A. My Home by Freddie Mac. (2021, July 21). Retrieved from myhome.freddiemac.com",Some sentences lack a space after the period. Markdown (table) is not properly formatted.
+R06,Textbook 9,condensed,084,app98,3 - Somewhat ineffective,5 - Organized,4 - Somewhat complex,4 - Somewhat easy to understand,Simplified,,
+R06,Textbook 10,condensed,097,app107,4 - Somewhat effective,4 - Somewhat organized,2 - Simple,5 - Easy to understand,Simplified,,
+R06,Textbook 11,condensed,064,app110,5 - Effective,5 - Organized,2 - Simple,6 - Very easy to understand,Faithful,,
+R07,Textbook 4,condensed,032,app77,,,,,,,
+R07,Textbook 10,faithful,097,app99,,,,,,,
+R07,Textbook 11,faithful,064,app108,,,,,,,
+R07,Textbook 12,faithful,096,app112,,,,,,,
+R07,Textbook 2,condensed,012,app65,,,,,,,
+R07,Textbook 3,condensed,024,app72,,,,,,,
+R07,Textbook 5,simplified,050,app79,,,,,,,
+R07,Textbook 1,condensed,008,app62,,,,,,,
+R07,Textbook 9,faithful,084,app96,,,,,,,
+R07,Textbook 8,simplified,077,app94,,,,,,,
+R07,Textbook 7,simplified,062,app86,,,,,,,
+R07,Textbook 6,simplified,056,app83,,,,,,,
+R08,Textbook 7,simplified,062,app86,4 - Somewhat effective,5 - Organized,2 - Simple,6 - Very easy to understand,Simplified,Uses vague language but very easy to understand,
+R08,Textbook 8,simplified,077,app94,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Condensed,"Some parts were very effective, the intro and the beginning sections condensed too much",
+R08,Textbook 6,simplified,056,app83,5 - Effective,5 - Organized,2 - Simple,6 - Very easy to understand,Simplified,,
+R08,Textbook 9,faithful,084,app96,3 - Somewhat ineffective,4 - Somewhat organized,6 - Very complex,2 - Difficult to understand,Condensed,,
+R08,Textbook 2,condensed,012,app65,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Condensed,"Could probably omit ""about the authors""",5 missing spaces after sentence (usually in the middle of each section)
+R08,Textbook 1,condensed,008,app62,6 - Very effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Condensed,,
+R08,Textbook 4,condensed,032,app77,5 - Effective,4 - Somewhat organized,4 - Somewhat complex,4 - Somewhat easy to understand,Faithful,,
+R08,Textbook 5,simplified,050,app79,5 - Effective,5 - Organized,2 - Simple,5 - Easy to understand,Simplified,,
+R08,Textbook 11,faithful,064,app108,6 - Very effective,6 - Very organized,5 - Complex,5 - Easy to understand,Faithful,Could probably omit references,
+R08,Textbook 12,faithful,096,app112,3 - Somewhat ineffective,3 - Somewhat disorganized,6 - Very complex,3 - Somewhat difficult to understand,Faithful,Could be good if studying original texts,
+R08,Textbook 10,faithful,097,app99,4 - Somewhat effective,3 - Somewhat disorganized,5 - Complex,4 - Somewhat easy to understand,Faithful,Passages can be a bit long per question,
+R08,Textbook 3,condensed,024,app72,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Condensed,,The 'Key Concepts and Terms' session was a bit disorganized
+R09,Textbook 7,condensed,062,app92,5 - Effective,5 - Organized,4 - Somewhat complex,4 - Somewhat easy to understand,Faithful,,
+R09,Textbook 2,faithful,012,app63,4 - Somewhat effective,4 - Somewhat organized,3 - Somewhat simple,5 - Easy to understand,Simplified,,
+R09,Textbook 3,faithful,024,app69,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R09,Textbook 8,condensed,077,app95,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Condensed,,
+R09,Textbook 4,faithful,032,app73,5 - Effective,6 - Very organized,3 - Somewhat simple,5 - Easy to understand,Condensed,,
+R09,Textbook 6,condensed,056,app84,6 - Very effective,6 - Very organized,2 - Simple,5 - Easy to understand,Simplified,,
+R09,Textbook 1,faithful,008,app50,6 - Very effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,"The ""Reduce Allergens In Your Home"" section was fine but felt out of place with only bullet points. maybe a short sentence along the lines of ""There are several ways you can reduce allergens in your home..."" before the bullet points",
+R09,Textbook 9,simplified,084,app97,2 - Ineffective,3 - Somewhat disorganized,3 - Somewhat simple,3 - Somewhat difficult to understand,Condensed,"Every section was one large paragraph, which made it harder to read and understand",
+R09,Textbook 5,condensed,050,app81,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R09,Textbook 12,simplified,096,app113,3 - Somewhat ineffective,4 - Somewhat organized,4 - Somewhat complex,4 - Somewhat easy to understand,Condensed,"For several of the Condensed texts (based on my guess), a lot of the sentences follow a simple sentence structure without variation, which slightly reduces readability",
+R09,Textbook 11,simplified,064,app109,6 - Very effective,5 - Organized,2 - Simple,5 - Easy to understand,Simplified,"For the ""Strategies"" section, it might have been better to have a list of items instead of two paragraphs. I wasn't sure if the formatting implied the strategies in the first paragraph shared a theme (which didn't seem to be the case).",
+R09,Textbook 10,simplified,097,app102,2 - Ineffective,3 - Somewhat disorganized,3 - Somewhat simple,3 - Somewhat difficult to understand,Condensed,"I felt ""Introduction"" and ""Overview"" could've been swapped, and ""Future Research"" could've been left at the end. I also felt there were a lot of statements like ""This section will...,"" ""We will now look at...,"" ""next, the author will ..."" which were unncessary. Each section was one large paragraph, which hindered comphrenesion and learning.",
+R10,Textbook 9,simplified,084,app97,6 - Very effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R10,Textbook 5,condensed,050,app81,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,"I gave a wrong answer to a QQ and it scored me as if it were correct. Also, a picture is missing.",
+R10,Textbook 3,faithful,024,app69,3 - Somewhat ineffective,4 - Somewhat organized,4 - Somewhat complex,3 - Somewhat difficult to understand,Condensed,Missing images and several formatting errors,
+R10,Textbook 11,simplified,064,"app109
+",5 - Effective,6 - Very organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R10,Textbook 1,faithful,008,app50,5 - Effective,6 - Very organized,5 - Complex,4 - Somewhat easy to understand,Faithful,There were footnotes that didn't lead anywhere.,
+R10,Textbook 12,simplified,096,app113,4 - Somewhat effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,The text included definitions of words that might be difficult.,
+R10,Textbook 6,condensed,056,app84,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Simplified,At the end it gives a list of services and websites. This would have been better as a list or table.,
+R10,Textbook 7,condensed,062,app92,6 - Very effective,6 - Very organized,4 - Somewhat complex,6 - Very easy to understand,Faithful,,
+R10,Textbook 10,simplified,097,app102,5 - Effective,4 - Somewhat organized,3 - Somewhat simple,5 - Easy to understand,Simplified,"This one is giving definitions again, which is cool",
+R10,Textbook 2,faithful,012,app63,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,I'm loving the subscript!,
+R10,Textbook 8,condensed,077,app95,5 - Effective,5 - Organized,6 - Very complex,3 - Somewhat difficult to understand,Condensed,A lot of legalese in this one.,
+R10,Textbook 4,faithful,032,app73,2 - Ineffective,4 - Somewhat organized,3 - Somewhat simple,4 - Somewhat easy to understand,Faithful,There were some formatting artifacts at the top of this one.,
+R11,Textbook 11,simplified,064,app109,6 - Very effective,5 - Organized,1 - Very simple,6 - Very easy to understand,Simplified,,could we add something like celebration kind of thing like the previous version(ig this is common for all the versions)
+R11,Textbook 4,simplified,032,app74,6 - Very effective,5 - Organized,2 - Simple,5 - Easy to understand,Faithful,,diagram missing
+R11,Textbook 2,simplified,012,app64,5 - Effective,6 - Very organized,3 - Somewhat simple,3 - Somewhat difficult to understand,Condensed,,diagram missing.
+R11,Textbook 1,simplified,008,app61,6 - Very effective,6 - Very organized,1 - Very simple,6 - Very easy to understand,Simplified,I tried my way of gaming the answers the ai did pretty good on catching it," The illustration shows is mentioned under ""Wood Burning and Air Filtration"" but there is none."
+R11,Textbook 7,faithful,062,app85,5 - Effective,5 - Organized,1 - Very simple,5 - Easy to understand,Simplified,equation didn't render properly might be a latex rendering issue, 
+R11,Textbook 3,simplified,024,app71,6 - Very effective,6 - Very organized,5 - Complex,3 - Somewhat difficult to understand,Faithful,,equation and images didn't render 
+R11,Textbook 9,condensed,084,app98,2 - Ineffective,4 - Somewhat organized,1 - Very simple,6 - Very easy to understand,Condensed,,
+R11,Textbook 5,faithful,050,app78,4 - Somewhat effective,5 - Organized,2 - Simple,5 - Easy to understand,Faithful,,
+R11,Textbook 6,faithful,056,app82,2 - Ineffective,4 - Somewhat organized,2 - Simple,4 - Somewhat easy to understand,Condensed,,The markdown table did not render properly and i also notice here is that chunking is a bit odd.the bolding and text formatting also are not great.
+R11,Textbook 8,faithful,077,app93,5 - Effective,5 - Organized,3 - Somewhat simple,4 - Somewhat easy to understand,Faithful,,
+R11,Textbook 12,condensed,096,app114,5 - Effective,5 - Organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,
+R11,Textbook 10,condensed,097,app107,5 - Effective,6 - Very organized,2 - Simple,5 - Easy to understand,Faithful,,Noticed references like this not sure what they are
+R12,Textbook 2,simplified,012,app64,6 - Very effective,5 - Organized,1 - Very simple,6 - Very easy to understand,Simplified,,unrendered image
+R12,Textbook 10,condensed,097,app107,3 - Somewhat ineffective,3 - Somewhat disorganized,2 - Simple,5 - Easy to understand,Condensed,A lot of [number] that are meaningless? ,
+R12,Textbook 6,faithful,056,app82,1 - Very ineffective,1 - Very disorganized,2 - Simple,3 - Somewhat difficult to understand,Faithful,Some sentences lack space between comma and the start of new sentence & Meaningless asterisks ,
+R12,Textbook 7,faithful,062,app85,5 - Effective,5 - Organized,3 - Somewhat simple,4 - Somewhat easy to understand,Condensed,,
+R12,Textbook 3,simplified,024,app71,5 - Effective,6 - Very organized,1 - Very simple,6 - Very easy to understand,Simplified,,"unrendered image, chemical equation in LaTeX not compiled. "
+R12,Textbook 9,condensed,084,app98,4 - Somewhat effective,4 - Somewhat organized,4 - Somewhat complex,4 - Somewhat easy to understand,Condensed,random usage of quotation mark.,
+R12,Textbook 1,simplified,008,app61,5 - Effective,4 - Somewhat organized,1 - Very simple,6 - Very easy to understand,Simplified,,
+R12,Textbook 4,simplified,032,app74,4 - Somewhat effective,3 - Somewhat disorganized,4 - Somewhat complex,4 - Somewhat easy to understand,Condensed,Too many brackets with unnecessary definition,
+R12,Textbook 5,faithful,050,app78,4 - Somewhat effective,4 - Somewhat organized,3 - Somewhat simple,5 - Easy to understand,Faithful,,unrendered image
+R12,Textbook 11,condensed,064,app110,5 - Effective,6 - Very organized,1 - Very simple,6 - Very easy to understand,Simplified,,
+R12,Textbook 12,condensed,096,app114,5 - Effective,5 - Organized,1 - Very simple,6 - Very easy to understand,Condensed,Generated text is too simplified? --> Answers the questions directly so no need to read the text.,
+R12,Textbook 8,faithful,077,app93,4 - Somewhat effective,5 - Organized,4 - Somewhat complex,3 - Somewhat difficult to understand,Faithful,,
+R13,Textbook 12,faithful,096,app112,4 - Somewhat effective,5 - Organized,5 - Complex,2 - Difficult to understand,Condensed,"
+quotes everywhere
+","
+After I mark the reading as completed, the left side progress bar is not updating, even after refreshing the page. 
+
+If your answer to QQ is wrong, and you click ""Explain what I missed"", the AI will not be able to explain why, it says, ""Your answer is"" and that's it. 
+"
+R13,Textbook 5,simplified,050,app79,5 - Effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,"
+it has some bolded words. but I think they are bolded because it follows explanations in parentheses, which is helpful.
+","For QQ, wrong answers take much longer time than the correct ones."
+R13,Textbook 9,faithful,084,app96,4 - Somewhat effective,4 - Somewhat organized,6 - Very complex,3 - Somewhat difficult to understand,Condensed,,
+R13,Textbook 11,faithful,064,app108,5 - Effective,5 - Organized,4 - Somewhat complex,5 - Easy to understand,Faithful,,
+R13,Textbook 7,simplified,062,app86,5 - Effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,,
+R13,Textbook 2,condensed,012,app65,4 - Somewhat effective,4 - Somewhat organized,5 - Complex,3 - Somewhat difficult to understand,Faithful,"1)some bolded words make sense, some doesnt. 
+
+2) In the fourth line, ""policies.Captured"" - there's no space after comma. 
+
+3) I think the intro was somehow hard to understand. (some sentences are vague)",
+R13,Textbook 1,condensed,008,app62,6 - Very effective,5 - Organized,4 - Somewhat complex,6 - Very easy to understand,Faithful,words are bolded for no reason?,
+R13,Textbook 6,simplified,056,app83,6 - Very effective,5 - Organized,3 - Somewhat simple,6 - Very easy to understand,Simplified,,
+R13,Textbook 3,condensed,024,app72,3 - Somewhat ineffective,4 - Somewhat organized,4 - Somewhat complex,4 - Somewhat easy to understand,Simplified,"1) There's an issue with formatting: ""Photosynthetic organisms are producers.* Photosynthesis in plants occurs in chloroplasts. > VOCABULARY"" under MAIN IDEAS. 
+
+2) some words are bolded randomly. 
+
+3) I think this equation could be formatted better: The overall equation for photosynthesis is: 6CO₂ + 6H₂O --(light, enzymes)--> C₆H₁₂O₆ + 6O₂. ","For the QQs, I gave wrong answers (I just copied a part of the question) but they were marked as correct. 
+"
+R13,Textbook 10,faithful,097,app99,3 - Somewhat ineffective,4 - Somewhat organized,5 - Complex,4 - Somewhat easy to understand,Faithful,Overwhelming info.,"
+For the first QQ, I copied the first 6 words from the reference answer and it marked me as correct. e.g. ""The primary objectives are to systematically""
+"
+R13,Textbook 4,condensed,032,app77,3 - Somewhat ineffective,5 - Organized,4 - Somewhat complex,3 - Somewhat difficult to understand,Condensed,"1) It mentions terms like ""EMF protection"" and ""RF radiation"", but did not explain them.
+
+2) random bolded words.","
+The question is ""What is 5G technology and how does its network structure operate?"" 
+
+I copied a part of the question into the answer, and it marked me as correct. eg. ""5G technology and network structure operate""
+"
+R13,Textbook 8,simplified,077,app94,4 - Somewhat effective,5 - Organized,5 - Complex,4 - Somewhat easy to understand,Faithful,"
+it has some italicized text",same issue with the QQ
+R14,Textbook 5,condensed,050,app81,,,,,,,
+R14,Textbook 8,condensed,077,app95,,,,,,,
+R14,Textbook 3,faithful,024,app69,,,,,,,
+R14,Textbook 6,condensed,056,app84,,,,,,,
+R14,Textbook 4,faithful,032,app73,,,,,,,
+R14,Textbook 1,faithful,008,app50,,,,,,,
+R14,Textbook 12,faithful,096,app112,,,,,,,
+R14,Textbook 9,simplified,056,app83,,,,,,,
+R14,Textbook 2,faithful,012,app63,,,,,,,
+R14,Textbook 10,simplified,097,app102,,,,,,,
+R14,Textbook 11,simplified,064,app109,,,,,,,
+R14,Textbook 7,condensed,062,app92,,,,,,,

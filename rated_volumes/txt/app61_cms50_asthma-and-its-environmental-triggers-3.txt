@@ -1,0 +1,133 @@
+Asthma and Its Environmental Triggers
+
+This volume explores asthma, a chronic lung disease, examining its prevalence, symptoms, and the various environmental and genetic factors that trigger or worsen the condition. It also highlights research by the National Institute of Environmental Health Sciences (NIEHS) and strategies for managing asthma.
+
+# Understanding Asthma and Environmental Triggers
+
+## What Is Asthma?
+
+Asthma ( a chronic lung disease ) causes symptoms like coughing, wheezing, chest tightness, or shortness of breath. During an asthma attack, the airways in the lungs swell and narrow, making it difficult to breathe. Severe attacks can be very dangerous, sometimes requiring emergency room visits or hospitalizations. Asthma can also affect a person's quality of life, leading to emotional and physical stress, and causing missed days from school or work.
+
+Question: What are the key symptoms and potential impacts of asthma?
+Answer: 
+Key phrases: asthma, chronic lung disease, asthma attack, breathing difficulties
+
+## Asthma Prevalence and Triggers
+
+In the United States, about 25 million people have asthma, including over 4.7 million children. Asthma affects people of all ages, backgrounds, and genders across the country. Environmental factors , also called triggers ( things that can start or worsen asthma symptoms ), can make asthma worse. These triggers include pollen, viral infections like the flu, or cold air, and they can affect people differently. People with asthma can manage their condition by taking medicine and avoiding things that cause an attack. Genetic differences can make one person react differently to the same environmental exposure compared to another. This means some people might develop a health problem from an environmental exposure while others do not.
+
+Question: What is the role of environmental factors in asthma and how can individuals manage their condition?
+Answer: 
+Key phrases: asthma prevalence, environmental factors, triggers, asthma management
+
+## NIEHS Research on Asthma
+
+The National Institute of Environmental Health Sciences (NIEHS) focuses its research on the complex connections between the environment, people's genetics, and the immune system. Discoveries from this research can help develop ways to control or prevent asthma. NIEHS conducts and supports asthma studies ranging from basic laboratory research to population studies and human clinical trials.
+
+Question: What is the primary focus of NIEHS research related to asthma?
+Answer: 
+Key phrases: NIEHS, environmental health sciences, asthma research, genetics, immune system
+
+## Genetics and Environmental Factors in Asthma
+
+Many factors contribute to diseases like asthma. Some health conditions are genetic, meaning they are passed down through families. Other health problems can be caused by environmental factors. Many diseases, including asthma, result from how genes and the environment interact. Family history and environmental factors are both connected to asthma development, suggesting genetics plays a role. An NIEHS study found that certain markers in DNA ( the genetic material in cells ) might predict a newborn's risk of asthma. This information could help researchers identify children at risk and find ways to prevent the disease. Researchers have also shown that asthma patients with a specific genetic makeup who live near a highway are more likely to experience severe symptoms. Identifying asthma triggers is helpful for managing the disease. However, NIEHS researchers found that most doctors do not regularly assess environmental factors. Specialists were more likely to assess triggers at home, school, or work than primary care providers. Overall, 46% to 76% of doctors reported not assessing these situations during most asthma visits.
+
+Question: How do genetics and environment interact to influence asthma development and management?
+Answer: 
+Key phrases: genetic factors, environmental factors, DNA, asthma diagnosis, trigger assessment
+
+## Environmental Triggers: Air Pollution and Asthma
+
+NIEHS-funded researchers discovered that neighborhoods with high levels of residential air pollution ( pollution from homes and local sources ) had adults with higher rates of severe or uncontrolled asthma and poor symptom management. Residential air pollution includes emissions like carbon dioxide ( a greenhouse gas ), particulate matter (PM 2.5) ( tiny particles in the air ), sulfur dioxide ( a gas released from burning fossil fuels ), and volatile organic compounds ( chemicals that evaporate easily ). These conditions primarily affect Black Americans. According to findings from the NIEHS-funded Mobility Asthma Project, children who move to less poor neighborhoods experience major improvements in asthma symptoms, partly because their stress is reduced.
+
+Question: How does residential air pollution and socioeconomic status affect asthma outcomes?
+Answer: 
+Key phrases: residential air pollution, PM 2.5, carbon dioxide, sulfur dioxide, socioeconomic factors
+
+## Indoor Triggers of Asthma
+
+Indoor air quality greatly affects lung health. Dust mites, pests like cockroaches and rodents, pet dander, molds, and fungi are common indoor allergens ( substances that cause an allergic reaction ) that can lead to more asthma attacks. On a positive note, NIEHS-funded research shows that vitamin D might protect children with asthma. Children in cities with asthma who had low blood levels of vitamin D had worse asthma than those with higher vitamin D levels. School environments can also be sources of asthma triggers for children. A study of inner-city students found a link between airborne mouse allergens in schools and increased asthma symptoms and reduced lung function. At home, frequently burning wood is linked to decreased lung function in adults with asthma.
+
+Question: What are common indoor asthma triggers and how can some be mitigated?
+Answer: 
+Key phrases: indoor air quality, dust mites, pests, pet dander, mold, vitamin D, mouse allergens
+
+## Wood Burning and Air Filtration
+
+In rural, colder areas of the U.S., people often burn wood indoors to help with heating. Individuals with asthma should consider reducing indoor wood burning or adding air filtration devices to improve air quality. For instance, HEPA (High-Efficiency Particulate Air) cleaners ( air purifiers that capture tiny particles ) can help. Researchers combined HEPA cleaners with a home-based education program to reduce children's exposure to pollutants at home, which helped improve their lung health. The illustration shows how airways change during an asthma attack. The normal airway has relaxed smooth muscles, while an asthmatic airway during an attack has tightened smooth muscles and an inflamed, thickened wall.
+
+Question: What measures can people with asthma take to improve indoor air quality, especially concerning wood burning?
+Answer: 
+Key phrases: wood burning, air filtration, HEPA cleaners, lung health, asthmatic airway
+
+## Normal and Asthmatic Airway
+
+When air flows normally, the smooth muscles around the airways are relaxed, allowing for easy breathing. During an asthma attack, these smooth muscles tighten, and the walls of the airways become inflamed and thicker. This makes the airways narrower and restricts airflow, leading to breathing difficulties. Understanding these differences helps to visualize how asthma affects the respiratory system and why triggers cause such significant symptoms. Improving air quality and managing triggers help to keep the airways as open as possible.
+
+Question: Describe the key differences between a normal airway and an asthmatic airway during an attack.
+Answer: 
+Key phrases: normal airway, asthmatic airway, smooth muscles, airway inflammation, airflow restriction
+
+## Outside Triggers of Asthma: Air Pollution
+
+Air pollution is a known factor that contributes to asthma attacks in urban, suburban, and rural areas. Adding to the evidence linking outdoor air pollution and childhood asthma, researchers, partly funded by NIEHS, found that exposure to PM2.5 ( tiny airborne particles ) and nitrogen dioxide ( a gas pollutant ) during the first three years of life was connected to more cases of asthma in early and middle childhood. NIEHS-funded researchers also found that babies who breathed high levels of traffic-related air pollution were more likely to have ongoing wheezing during childhood. Children exposed to high levels of traffic-related air pollution up to age 7 were more likely to develop asthma. Another study showed that adolescents exposed to nitrogen dioxide experienced changes in hormone levels that affect their response to stress, suggesting that air pollution might worsen asthma.
+
+Question: How does early-life exposure to outdoor air pollution, specifically PM2.5 and nitrogen dioxide, impact childhood asthma development?
+Answer: 
+Key phrases: outdoor air pollution, PM2.5, nitrogen dioxide, childhood asthma, traffic-related pollution
+
+## Criteria Air Pollutants and Lung Health
+
+Six " criteria air pollutants " ( common air pollutants regulated by the EPA ), such as ozone ( a gas that forms when pollutants react in sunlight ), are found throughout the U.S. and are regulated by the Environmental Protection Agency. Individually or together, these pollutants can damage the lung epithelium ( the lining of the lungs ), and repeated, long-term exposures can worsen asthma with lasting health effects. To understand how ozone causes lung injury, NIEHS-funded scientists are using animal models to identify issues with the immune response at the cellular level. Early findings suggest possible ways that treatments could help stop asthma caused by ozone.
+
+Question: What are criteria air pollutants and how do they affect lung health in relation to asthma?
+Answer: 
+Key phrases: criteria air pollutants, ozone, lung epithelium, air pollution regulation, immune response
+
+## Coal Power Plants and Asthma Outcomes
+
+An NIEHS-funded study was the first to show a link between reduced emissions from coal-powered plants ( facilities that burn coal to generate electricity ) and health benefits. Asthma symptoms and related hospitalizations significantly decreased after a power plant was either retired or fitted with emission controls. NIEHS-supported researchers also found that certain agricultural practices contribute to poor air quality and asthma among children. Particulate matter , ozone , pesticides ( chemicals used to kill pests ), and ammonia ( a chemical found in animal farming ) can all worsen asthma. They discovered that high air pollution in rural farming communities is linked to poor respiratory health in children.
+
+Question: How have reduced emissions from coal-powered plants impacted asthma outcomes, and what agricultural factors contribute to poor air quality?
+Answer: 
+Key phrases: coal-powered plants, emissions, asthma symptoms, agricultural practices, air quality, childhood asthma
+
+## Asthma and Weather Events
+
+Research shows that natural disasters and extreme weather events can create conditions that can worsen asthma. For example, long periods of drought increase wind-blown dust, which has been found to increase instances of wheezing in children. Heat and drought also contribute to the development of widespread and severe wildfires. The smoke from these fires contains many particles that researchers have linked to significant increases in respiratory diseases, especially asthma. Extremely wet conditions can also start or worsen asthma attacks. Heavy rains and flooding can lead to the growth of molds and other fungi that cause various respiratory problems. Scientists funded by NIEHS showed that young children exposed to high levels of mold were more likely to have asthma at age 7. Researchers also found that levels of asthma-causing mold increased significantly in areas flooded by Hurricane Maria in September 2017. Cases of respiratory allergies and asthma increased among people affected by Hurricane Harvey in August 2017.
+
+Question: How do extreme weather events like droughts, wildfires, and floods impact asthma and respiratory health?
+Answer: 
+Key phrases: natural disasters, extreme weather, drought, wildfires, smoke, mold, flooding, respiratory disease
+
+## Asthma and Occupational Exposure
+
+NIEHS grant recipients conducted a study in mice that simulated exposure to agricultural dust. They found a new role for the protein IL-22 ( a protein involved in immune responses ) in lung repair. This finding could help develop treatments for farmworkers and others with lung diseases, such as asthma, that are linked to environmental exposures. Oil spill cleanup workers during the 2010 Deepwater Horizon disaster, many of whom were exposed to airborne contaminants like petroleum hydrocarbons ( chemicals found in oil ), experienced a significantly increased risk of asthma in the years that followed. This NIEHS research, called the Gulf Long-Term Follow-Up Study with 33,000 participants, is the first to examine specific chemicals from oil spills and connect them to respiratory diseases.
+
+Question: How do occupational exposures, such as agricultural dust and oil spill contaminants, affect respiratory health and asthma?
+Answer: 
+Key phrases: occupational exposure, agricultural dust, IL-22, lung repair, oil spills, petroleum hydrocarbons
+
+## Asthma Therapies and Protein Research
+
+A large-scale study that examines the structure and function of proteins ( complex molecules essential for living organisms ), including how they work and interact inside cells, identified over 100 plasma proteins linked to asthma in adults. This research may help in future diagnosis and therapies for asthma management.
+
+Question: How might research into proteins contribute to future asthma diagnosis and therapies?
+Answer: 
+Key phrases: asthma therapies, protein research, plasma proteins, diagnosis, treatment
+
+## Reduce Allergens in Your Home
+
+To help reduce allergens in your home and manage asthma, consider these steps: Vacuum carpets and upholstered furniture every week. Wash sheets and blankets weekly in hot water. Cover mattresses and pillows with special allergen-proof covers. Keep indoor humidity levels below 50%. Limit pets' access to bedrooms. Seal doors and windows. Eliminate pests.
+
+## Asthma Management Guidelines
+
+The National Heart, Lung, and Blood Institute, part of the National Institutes of Health, has provided recommendations to improve care for people with asthma. These recommendations help primary care providers and specialists make informed decisions about asthma management. For resources on preventing, treating, and managing asthma, visit the Learn More Breathe Better® program at https://www.nhlbi.nih.gov/lmbbasthma.
+
+Question: What resources are available for asthma management and who provides the guidelines?
+Answer: 
+Key phrases: asthma management, National Heart Lung and Blood Institute, healthcare providers, prevention resources
+
+## Further Information
+
+For more information on the National Institute of Environmental Health Sciences, visit https://www.niehs.nih.gov.

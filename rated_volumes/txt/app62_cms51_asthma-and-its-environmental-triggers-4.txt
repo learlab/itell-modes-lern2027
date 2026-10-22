@@ -1,0 +1,61 @@
+Asthma and Its Environmental Triggers
+
+This volume examines asthma, a chronic lung disease, focusing on its causes, prevalence, and the significant impact of environmental factors and genetics. It explores various triggers, research initiatives, and management strategies to improve quality of life for individuals with asthma.
+
+# Asthma and Its Environmental Triggers
+
+## What is Asthma?
+
+Asthma is a chronic lung disease presenting with symptoms like coughing, wheezing, chest tightness, or shortness of breath. During an asthma attack, the airways in the lungs swell and constrict, significantly impeding breathing. These severe attacks can be life-threatening, often necessitating emergency room visits or hospitalization. Asthma can also severely diminish quality of life through emotional and physical stress, leading to absences from school and work. In the United States, approximately 25 million people live with asthma, including over 4.7 million children, affecting all ages, ethnicities, races, and sexes across the country. Environmental factors, termed triggers , such as pollen, viral infections, or cold air, can initiate or exacerbate asthma symptoms. Individuals can manage their condition effectively by using medication and diligently avoiding known triggers that provoke attacks.
+
+Question: What are the defining characteristics of asthma and how does it impact individuals in the U.S.?
+Answer: 
+Key phrases: chronic lung disease, asthma attack, environmental factors, triggers, asthma management
+
+## NIEHS Research into Asthma's Causes
+
+The National Institute of Environmental Health Sciences (NIEHS) investigates the intricate relationships between the environment, human genetics, and the immune system to inform asthma prevention and control. Their research spans from basic laboratory studies to human clinical trials. Asthma's development is influenced by both genetic and environmental factors , often through their interaction. Genetic variations can dictate individual responses to environmental exposures, explaining why some develop asthma while others do not. NIEHS research has identified DNA indicators that may predict a newborn's asthma risk, offering avenues for early identification and prevention. Studies also show that asthma patients with specific genetic predispositions living near highways experience more severe symptoms. While identifying triggers is crucial for management, NIEHS found that many clinicians, particularly primary care providers, inconsistently assess environmental factors during asthma visits.
+
+Question: How does NIEHS research contribute to understanding and managing asthma, particularly concerning genetics and environment?
+Answer: 
+Key phrases: NIEHS research, genetic factors, environmental factors, gene-environment interaction, asthma risk
+
+## Targeting Asthma's Root Causes and Indoor Triggers
+
+NIEHS-funded research reveals that areas with high residential air pollution , including CO2, PM2.5, and volatile organic compounds, show elevated rates of severe asthma, particularly affecting Black Americans. The Mobility Asthma Project found that children moving to less impoverished neighborhoods experienced improved asthma symptoms, partly due to reduced stress. Indoor air quality is a significant concern, with common triggers like dust mites, pests (cockroaches, rodents), pet dander, molds, and fungi frequently exacerbating asthma. NIEHS research suggests vitamin D may protect children with asthma; urban children with lower vitamin D levels experienced worse asthma. School environments also contribute to triggers, with mouse allergens linked to increased symptoms and reduced lung function in inner-city students. Furthermore, frequent indoor wood burning in colder rural areas is associated with decreased lung function in adults with asthma, prompting recommendations for reduced burning and air filtration.
+
+Question: What are the key findings from NIEHS research regarding residential air pollution and common indoor asthma triggers?
+Answer: 
+Key phrases: residential air pollution, Mobility Asthma Project, indoor air quality, asthma triggers, vitamin D, indoor wood burning
+
+## Outdoor Environmental Triggers
+
+Outdoor air pollution is a recognized contributor to asthma attacks across urban, suburban, and rural settings. NIEHS-funded research demonstrates that early-life exposure (first three years) to PM2.5 and nitrogen dioxide is linked to increased asthma cases in childhood. Babies exposed to high levels of traffic-related air pollution are more prone to persistent wheezing, with exposure up to age seven increasing asthma risk. Adolescents exposed to nitrogen dioxide show altered hormone levels, potentially exacerbating asthma. Six "criteria air pollutants," including ozone, regulated by the EPA, can damage lung tissue. Prolonged exposure to these pollutants worsens asthma with long-term effects. NIEHS investigates the cellular biology of ozone-induced lung injury using animal models, seeking new therapies to counteract ozone-induced asthma.
+
+Question: How do various outdoor air pollutants contribute to asthma development and exacerbation, particularly in childhood?
+Answer: 
+Key phrases: outdoor air pollution, PM2.5, nitrogen dioxide, traffic-related air pollution, criteria air pollutants, ozone
+
+## Emissions, Agriculture, and Weather Impacts on Asthma
+
+An NIEHS-funded study first demonstrated that reduced coal-powered plant emissions led to significant health benefits, including dramatic decreases in asthma symptoms and hospitalizations following plant retirements or emission control implementation. Additionally, NIEHS researchers found that certain agricultural practices worsen air quality and contribute to childhood asthma. Pollutants like particulate matter, ozone, pesticides, and ammonia —a common byproduct of animal farming—can exacerbate asthma. Elevated air pollution in rural agricultural communities is linked to poorer respiratory health in children. An intervention combining HEPA cleaners with home-based education effectively reduced children's exposure to indoor pollutants and improved lung health. Research also indicates that natural disasters and extreme weather events can worsen asthma. Prolonged droughts increase wind-blown dust , leading to more wheezing in children. Heat and drought also foster wildfires, producing smoke with particles linked to significant spikes in respiratory disease. Conversely, very wet conditions and flooding promote mold and fungi growth, which are respiratory ailments. Studies showed young children exposed to high mold levels were more likely to develop asthma, and mold significantly increased after Hurricane Maria.
+
+Question: How do industrial emissions, agricultural practices, and various weather phenomena influence asthma prevalence and severity?
+Answer: 
+Key phrases: coal-powered plant emissions, agricultural practices, HEPA cleaners, natural disasters, wind-blown dust, wildfires, mold
+
+## Occupational Exposures and Asthma Therapies
+
+NIEHS-funded research investigating occupational exposures simulated agricultural dust in mice, revealing a novel role for protein IL-22 in lung repair . This discovery could lead to new therapies for lung diseases like asthma in farmworkers and individuals with similar environmental exposures. The 2010 Deepwater Horizon disaster cleanup workers, exposed to airborne petroleum hydrocarbons, experienced a significantly increased risk of asthma years later. The Gulf Long-Term Follow-Up Study , with 33,000 participants, is pioneering research linking specific oil spill chemicals to respiratory diseases. In the realm of asthma therapies , a major study identified over 100 plasma proteins associated with adult asthma. This proteomic research provides insights into protein structure and function, potentially advancing future diagnosis and personalized treatments for asthma management.
+
+Question: What are some key NIEHS findings regarding occupational asthma exposures and the development of new asthma therapies?
+Answer: 
+Key phrases: occupational exposures, protein IL-22, Deepwater Horizon disaster, Gulf Long-Term Follow-Up Study, asthma therapies, plasma proteins
+
+## Reducing Allergens in the Home
+
+To effectively reduce allergens in your home and mitigate asthma triggers, implement the following strategies: Vacuum carpets and upholstered furniture on a weekly basis. Wash sheets and blankets weekly using hot water. Utilize special allergen-proof covers for mattresses and pillows. Maintain indoor humidity levels below 50%. Restrict pets' access to bedrooms. Ensure doors and windows are properly sealed. Actively eliminate pests from the home environment.
+
+## Asthma Management Resources
+
+The National Heart, Lung, and Blood Institute (NHLBI) , a division of the National Institutes of Health, provides comprehensive recommendations aimed at enhancing asthma care. These guidelines assist both primary care providers and specialists in making well-informed decisions regarding asthma management . For additional resources concerning the prevention, treatment, and ongoing management of asthma, individuals can access the Learn More Breathe Better® program online at https://www.nhlbi.nih.gov/lmbbasthma. Further information about the National Institute of Environmental Health Sciences (NIEHS) is available at https://www.niehs.nih.gov.

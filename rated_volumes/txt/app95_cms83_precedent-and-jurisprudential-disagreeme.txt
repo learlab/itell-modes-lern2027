@@ -1,0 +1,45 @@
+Precedent and Jurisprudential Disagreement
+
+This volume explores the role of stare decisis in constitutional law, focusing on how its "weak presumption" in constitutional cases mediates fundamental disagreements among justices regarding interpretive methodologies. It argues that this approach promotes doctrinal stability while accommodating judicial pluralism.
+
+# Precedent and Jurisprudential Disagreement
+
+## Introduction to Stare Decisis and Disagreement
+
+The Supreme Court's willingness to overrule its own precedents, particularly in constitutional cases, has often been criticized, with calls for a more stringent application of stare decisis . This article argues that the weak presumption of stare decisis in constitutional cases actually serves a crucial role: promoting doctrinal stability while accommodating the Court's inherent pluralism. Rather than solely correcting "error," stare decisis frequently mediates fundamental disagreements among justices about the Constitution's nature and proper interpretation. When justices lack a shared interpretive methodology, "error" often signifies a rejection of a case's underlying interpretive premise, becoming a stand-in for jurisprudential disagreement . The article's central thesis is that stare decisis in controversial constitutional cases functions to mediate this jurisprudential disagreement . This approach prevents the entrenchment of particular methodological resolutions, reflecting respect for diverse interpretive commitments on and off the Court. While allowing for judicial evolution, it also disciplines disagreement by placing the burden of justification on those who seek to overturn precedent. A new majority must rigorously defend its constitutional approach and weigh the impact on reliance interests, ensuring that changes are thoughtfully considered and not merely imposed by simple votes.
+
+Question: How does the author argue that the Supreme Court's "weak presumption" of *stare decisis* in constitutional cases is a virtue?
+Answer: 
+Key phrases: weak presumption, stare decisis, constitutional cases, doctrinal stability, jurisprudential disagreement, interpretive methodology
+
+## The Core Doctrine of Stare Decisis
+
+While the weak presumption of stare decisis allows for overruling and introduces some instability, its impact on continuity is often overstated. Doctrinal stability is not solely dependent on horizontal stare decisis (a court following its own precedent). Other systemic features, such as the prohibition on advisory opinions, lower courts' obligation to follow Supreme Court precedent, strict certiorari standards, and the Court's multimember, life-tenured composition, also contribute significantly to legal continuity. Instability in constitutional law is an inherent outcome of judicial pluralism and differing views on the Constitution's nature. The doctrine of stare decisis itself is a complex, judge-made principle. Originating in common law, it became a cornerstone of the federal judicial system by the 20th century, though its application remains flexible and context-dependent. Fundamentally, stare decisis manifests in two forms: vertical stare decisis , which is an inflexible rule compelling lower courts to follow precedent from superior courts, and horizontal stare decisis , a more adaptable doctrine requiring courts to adhere to their own prior decisions.
+
+Question: What are the two main forms of *stare decisis* and how do they differ in application?
+Answer: 
+Key phrases: horizontal stare decisis, doctrinal stability, judicial pluralism, doctrine of stare decisis, vertical stare decisis, common law
+
+## Varying Strength of Horizontal Stare Decisis
+
+The application of horizontal stare decisis varies significantly depending on the court and the subject matter. In district courts, it is nearly nonexistent. Courts of appeals apply it as a virtually absolute rule, permitting only en banc panels to overrule prior decisions. However, for the Supreme Court, stare decisis is a "soft rule," viewed as policy rather than an "inexorable command." Furthermore, its strength differs across categories of precedent. Statutory precedents are afforded "super-strong" stare decisis effect, while common law cases receive medium-strength. Constitutional cases , however, are the easiest to overrule. This weak presumption for constitutional precedents stems from the difficulty of amending the Constitution to correct judicial errors, unlike statutory interpretations which Congress can rectify through legislation. Stare decisis is a flexible, judge-made doctrine, and this article specifically examines its force when a Supreme Court justice encounters constitutional precedent they disagree with, recognizing that precedent profoundly influences judicial decision-making beyond mere constraint.
+
+Question: Why is *stare decisis* applied with a weak presumption in constitutional cases by the Supreme Court?
+Answer: 
+Key phrases: horizontal stare decisis, Supreme Court, statutory precedents, common law cases, constitutional cases, weak presumption, judge-made doctrine
+
+## Functions and Scholarly Debates on Stare Decisis
+
+Stare decisis is a crucial tool in constitutional decision-making, providing a framework for interpreting the Constitution's broad language, as exemplified by Youngstown Sheet & Tube Co. v. Sawyer . It facilitates reasoning by analogy and informs arguments based on text, structure, ethics, prudence, and history, making it a "workhorse" of constitutional law. Its most significant impact is felt when it constrains a justice from ruling as they otherwise might, forcing a choice between upholding settled law and correcting perceived errors. Scholars hold diverse views on overruling constitutional precedent. Proponents of weak stare decisis , including some living constitutionalists and originalists , argue for flexibility to prevent precedent from stifling progress or overriding the Constitution's original meaning, respectively. Conversely, advocates for robust stare decisis emphasize values such as judicial restraint , the rule of law , and maintaining the legitimacy of judicial review , believing a stronger adherence to precedent upholds these principles.
+
+Question: What are the contrasting arguments among scholars regarding the strength of *stare decisis* in constitutional cases?
+Answer: 
+Key phrases: stare decisis, constitutional decision-making, Youngstown Sheet & Tube Co. v. Sawyer, weak stare decisis, living constitutionalists, originalists, robust stare decisis, judicial restraint, rule of law, legitimacy of judicial review
+
+## Weak Stare Decisis and Jurisprudential Pluralism
+
+The author's account advocates for a weak form of stare decisis , not because any specific methodological commitment dictates it, but because the plurality of interpretive commitments among Supreme Court justices makes this relaxed approach both inevitable and desirable , especially when methodologies clash. This perspective acknowledges the inherent diversity of judicial philosophies. It is important to clarify that this analysis of stare decisis primarily focuses on the individual justice's perspective, rather than the Court as a collective institution. While justices consider the institutional interests when deciding to overrule, the Court itself doesn't possess a unified "institutional view" on the correctness of a precedent. A justice's evaluation of a precedent's constitutional consistency is intrinsically linked to their personal interpretive commitments . Therefore, the core question for a dissenting justice is whether the constraint of precedent outweighs their deeply held interpretive beliefs. Although stare decisis serves broader institutional interests, its primary influence, in this context, is on individual judicial conscience.
+
+Question: What is the author's primary justification for advocating a weak form of *stare decisis* in constitutional law?
+Answer: 
+Key phrases: weak form of stare decisis, methodological commitment, plurality of interpretive commitments, inevitable, desirable, individual justice's perspective, institutional interests, constraint of precedent

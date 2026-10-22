@@ -1,0 +1,34 @@
+\begin{table}[t]
+   
+  \begin{tabular}{@{}p{0.25\columnwidth}p{0.69\columnwidth}@{}}
+    
+    \textbf{Tool} & \textbf{Construct and indices used} \\
+    
+    TAACO 2.1.3 \newline \cite{Crossley2016TAACO}
+      & \emph{Cohesion} (4): adjacent-sentence argument overlap;
+        adjacent-sentence LSA similarity; incidence of basic
+        connectives; incidence of all connectives. \\
+    
+    TAALES 2.8.1 \newline \cite{Kyle2015TAALES}
+      & \emph{Lexical sophistication} (9): COCA news log frequency (all
+        words); word frequency (Freq\_N); COCA bigram association
+        ($\Delta P$); proportion of bigrams in the top 30k; Academic
+        Word List coverage; age of acquisition (all words);
+        concreteness (all words); contextual distinctiveness (content
+        words); lexical decision reaction time ($z$). \\
+    
+    TAASSC 1.3.8 \newline \cite{Kyle2016TAASSC}
+      & \emph{Syntactic complexity} (3): dependents per clause;
+        coordinating conjunctions per clause; clausal complements per
+        clause. \\
+    
+    Direct \newline (\texttt{textstat})
+      & \emph{Length and readability} (4): word count; mean sentence
+        length; Flesch--Kincaid grade level; Flesch reading ease. \\
+    
+  \end{tabular}
+  \caption{Tools, versions, and the 20 indices analysed in RQ2.  All
+           indices are per-text values computed on the 300 generated
+           texts.}
+  \label{tab:salat}
+\end{table}
