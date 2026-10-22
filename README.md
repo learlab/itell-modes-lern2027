@@ -8,7 +8,6 @@ This repository holds the tables, figures, prompts, data, and analysis code that
 
 | Folder | Contents |
 |---|---|
-| `paper/` | `itell_modes_long_version.pdf`: the full-length version of the paper with all tables and figures. |
 | `tables/` | `supplementary_tables.md` (Tables S1–S7, Figures S1–S2 described) and LaTeX sources. |
 | `figures/` | Ratings by mode, length ratio (Figure S1), mode-flow Sankey (Figure S2), as PDF and PNG. |
 | `prompts/modes/` | The generation prompt: `base_strategy3.md` (shared validation checklist) plus the `faithful`, `simplified`, and `condensed` mode modules. |

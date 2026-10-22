@@ -1,6 +1,6 @@
 # Supplementary tables
 
-Tables cut from the LERN 2027 submission for space. Numbers match the long version in `paper/`.
+Tables cut from the LERN 2027 submission for space.
 LaTeX sources for each table are in this folder (`latex_*.tex`, `automated_indices_table.tex`).
 
 ## Table S1. Generation mode specifications
