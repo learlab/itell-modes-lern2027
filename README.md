@@ -1,6 +1,6 @@
 # Supplementary material: Developing Reading Modes for LLM-Generated Instructional Texts
 
-Tobasum Mandal and Scott A. Crossley, Vanderbilt University. Submitted to LERN 2027.
+Tobasum Mandal, Scott A. Crossley, Langdon Holmes, Wesley Morris, and Adithya Kalidindi, Vanderbilt University. Submitted to LERN 2027.
 
 This repository holds the tables, figures, prompts, data, and analysis code that did not fit in the 6-page paper.
 
